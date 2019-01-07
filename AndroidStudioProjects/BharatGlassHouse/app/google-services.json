@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228456329564",
+    "firebase_url": "https://bharatglasshouse-da036.firebaseio.com",
+    "project_id": "bharatglasshouse-da036",
+    "storage_bucket": "bharatglasshouse-da036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228456329564:android:928545fcbcedd383",
+        "android_client_info": {
+          "package_name": "com.example.dedsec.bharatglasshouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228456329564-epvg4q4d63c6orv1i116g9ps347euu49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dedsec.bharatglasshouse",
+            "certificate_hash": "8e97401d36cd87e6e256427c66b8197ad36b148f"
+          }
+        },
+        {
+          "client_id": "228456329564-ic58dppqnfkl7a8ko65u5p4r99tpm7an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMRetEYYshkeNxMway-aRBnb1AAGX5NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228456329564-ic58dppqnfkl7a8ko65u5p4r99tpm7an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
